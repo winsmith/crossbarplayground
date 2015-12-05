@@ -1,0 +1,2 @@
+sudo apt-get update
+sudo apt-get install libffi-dev libssl-dev python-dev python-virtualenv python-pip redis-server

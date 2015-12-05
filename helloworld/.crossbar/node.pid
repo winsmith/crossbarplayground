@@ -1,0 +1,17 @@
+{
+   "pid": 10650, 
+   "options": {
+      "reactor": null, 
+      "loglevel": "info", 
+      "logtofile": false, 
+      "logformat": "colour", 
+      "command": "start", 
+      "logdir": null, 
+      "config": "/vagrant/helloworld/.crossbar/config.json", 
+      "cbdir": "/vagrant/helloworld/.crossbar"
+   }, 
+   "argv": [
+      "/home/vagrant/crossbarstuff/bin/crossbar", 
+      "start"
+   ]
+}
